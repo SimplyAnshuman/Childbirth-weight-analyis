@@ -81,7 +81,7 @@ Following data shows that mothers with age between 30-34 have highest mean birth
 ## Interval since last pregnancy
 Below analysis shows next childbirth after 24-35 month (4.0) since last pregnancy has maximum mean weight for childbirth. Babies born to women who get pregnant very quickly after having a child or wait many years between children are at greater risk for potentially serious delivery-related complications, including premature birth and low birth w, eight. The analysis of studies involving more than 11 million women is published in tomorrow's Journal of the American Medical Association. Researchers found that infants born to women who conceived less than six months after giving birth had a 40% increased risk for being born prematurely and a 61% increased risk of low birth weight, compared with infants born to mothers who waited 18 months to two years between pregnancies.
 
-![alt text](https://github.com/SimplyAnshuman/710Test/blob/master/10.png)
+![alt text](https://github.com/SimplyAnshuman/710Test/blob/master/11.png)
  
 ## Conclusion: 
 
